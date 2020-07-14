@@ -1,0 +1,1 @@
+https://rajvakati.com/2017/09/24/node-js-heroku-canvas-integration/
